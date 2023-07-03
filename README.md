@@ -2,6 +2,8 @@
 
 # requirement
 
+#### Before running the application, you need to install the dependencies
+
 - JDK 17+
 - Gradle
 - Debian OS (it's tested on Ubuntu)
