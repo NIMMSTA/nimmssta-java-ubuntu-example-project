@@ -2,7 +2,7 @@
 
 # requirement
 
-#### Before running the application, you need to install the dependencies
+#### please make sure requirements meets
 
 - JDK 17+
 - Gradle
