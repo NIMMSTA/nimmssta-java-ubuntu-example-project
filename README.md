@@ -1,4 +1,4 @@
-# demo-nimmsta-core
+# nimmsta-java-ubuntu-example-project
 
 # requirement
 
