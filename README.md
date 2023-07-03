@@ -5,7 +5,7 @@
 - JDK 17+
 - Gradle
 - Debian OS (it's tested on Ubuntu)
-- [Laird bluetooth dongle driver and configuration](https://github.com/LairdCP/UwTerminalX)
+- [Laird bluetooth dongle driver and configuration](https://github.com/LairdCP/UwTerminalX) (NIMMSTA Bluetooth Dongle)
 
 ## Installation
 
